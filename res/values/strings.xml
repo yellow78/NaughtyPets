@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">搗蛋寵物手電筒</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_store">MainActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8823364652619532/6238421606</string>
+
+</resources>
